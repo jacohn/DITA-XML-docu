@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_multiply_numbers">
+    <title>How to multiply numbers</title>
+    <shortdesc>Here you will find instructions for the multiplication feature of
+        CohnCalc.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zgz_xs1_ytb">
+            <p>To successfully multiply numbers, you must know what is multiplication.</p>
+        </prereq>
+        <steps id="steps_az3_rx1_ytb">
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the multiplication (x) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_qbc_pt1_ytb">
+            <p>The result from the multiplication is displayed.</p>
+        </result>
+        <example id="example_rs3_qt1_ytb">
+            <p>You want to multiply 3 and 2. The equation will look like: 3x2=6. You enter 3. Press
+                multiply (x). Enter 2. Press equals.</p>
+            <p>The result 6 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task>

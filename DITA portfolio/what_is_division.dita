@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What is division</title>
+    <shortdesc>Here you will learn what is division</shortdesc>
+    <conbody>
+        <p>To successfully perform the task of dividing 2 numbers, you must know what division is.
+            The term division represents a mathematical operation. Division allows you to find  how
+            many times 1 number fits into another. </p>
+        <p>You use the division (/) button to express the division operation in CohnCalc. </p>
+        <p>In the division process, you take a number (second number) and find how many times it
+            fits into another (first number).</p>
+    </conbody>
+</concept>

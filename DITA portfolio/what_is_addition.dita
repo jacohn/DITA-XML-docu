@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition">
+    <title>What is addition?</title>
+    <shortdesc>Here you will learn what is addition?</shortdesc>
+    <conbody>
+        <p>To successfully perform the task of adding numbers, you must know what adding is. The
+            term "addition" represents a mathematical operation. Addition allows you to find the
+            combined total of two numbers.</p>
+        <p>You use the plus (+) button to express the addition operation in CohnCalc.</p>
+        <p>In the addition process, you take a number and combine it with another number.</p>
+        <image href="Teaching-addition-top-image2.png" id="image_ilj_2fb_ytb"/>
+    </conbody>
+</concept>
