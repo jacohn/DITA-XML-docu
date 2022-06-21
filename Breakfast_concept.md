@@ -24,27 +24,27 @@ Breakfast did not become a standard meal until the 19th century Industrial Revol
 | Country                     | Notable Breakfast               | Description                                                                                      |
 |-----------------------------|---------------------------------|--------------------------------------------------------------------------------------------------|
 | Argentina                   | Medialunas                      | small sweet croissant<br>with coffee                                                             |
-| Australia                   | Vegemite on Toast               | a Salty, bitter, & <br>malty spread                                                              |
+| Australia                   | Vegemite on Toast               | a salty, bitter, & <br>malty spread                                                              |
 | Bulgaria                    | Banitsa                         | pastry made of egg,<br>cheese & fill pastry                                                      |
-| China                       | Youtiao & Congee                | Long deep fried breadstick<br>with rice porridge                                                 |
-| Colombia                    | Changua                         | Soup made with<br>potatoes, milk & egg                                                           |
-| England                     | English Breakfast               | Platter of fried eggs, sausage, <br>back bacon, tomatoes, mushrooms,<br>fried bread, and pudding |
-| Finland                     | Puuro                           | Oat-based porridge                                                                               |
+| China                       | Youtiao & Congee                | long deep fried breadstick<br>with rice porridge                                                 |
+| Colombia                    | Changua                         | soup made with<br>potatoes, milk & egg                                                           |
+| England                     | English Breakfast               | platter of fried eggs, sausage, <br>back bacon, tomatoes, mushrooms,<br>fried bread, and pudding |
+| Finland                     | Puuro                           | oat-based porridge                                                                               |
 | France                      | Croissant                       | often served with coffee                                                                         |
-| Germany                     | Bread, cheese,<br>and cold cuts | A savory platter, often served<br>with eggs                                                      |
+| Germany                     | Bread, cheese,<br>and cold cuts | a savory platter, often served<br>with eggs                                                      |
 | Ghana                       | Mandazi                         | sweet fried bread                                                                                |
 | India                       | Chana Poori                     | fried bread with chickpea & tomato<br>curry                                                      |
 | Iran                        | Haleem                          | porridge with minced meat, lentils,<br>grains, and spices                                        |
 | Israel                      | Shakshuka                       | eggs poached in spiced tomato sauce                                                              |
-| Italy                       | Cornetto                        | A sweet pastry served with <br>espresso                                                          |
+| Italy                       | Cornetto                        | a sweet pastry served with <br>espresso                                                          |
 | Japan                       | Miso soup, rice,<br>and fish    | healthy and filling                                                                              |
 | Malaysia                    | Nasi Lemak                      | rice, egg, peanuts, anchovies, and <br>sambal cooked coconut milk and <br>pandan leaf            |
 | Mexico                      | chilaquiles                     | lightly fried tortillas covered in <br>cheese, salsa, cream, avocado, and<br>other toppings      |
 | Morocco                     | Msemen                          | a folded pancake with crispy<br>exterior                                                         |
 | Myanmar                     | Mohinga                         | sweet & sour fish noodle soup                                                                    |
 | Nigeria                     | Kosai                           | spicy fried bean cakes                                                                           |
-| Peru                        | Tacacho con<br>cecina           | Roasted Plantain fritters with pork                                                              |
-| Philippines                 | Tapsilog                        | Garlic fried rice with eggs and meat                                                             |
+| Peru                        | Tacacho con<br>cecina           | roasted Plantain fritters with pork                                                              |
+| Philippines                 | Tapsilog                        | garlic fried rice with eggs and meat                                                             |
 | Senegal                     | Café Touba                      | spiced coffee                                                                                    |
 | South Africa                | Putu Pap                        | dry and fluffy cake made of porridge                                                             |
 | Spain                       | Churros                         | Long sweet fried cornbread with cinnamon                                                             |
